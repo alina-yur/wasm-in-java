@@ -6,7 +6,7 @@ this a reduced version of [polyglot-embedding-demo](https://github.com/graalvm/p
 
 ```shell
 mvn package -DskipTests
-mvn exec-exec
+mvn exec:exec
 ```
 
 It returns
